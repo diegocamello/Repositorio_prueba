@@ -18,6 +18,19 @@ public class Repositorio_prueba {
         // TODO code application logic here
         System.out.println("repositorio de prueba número 1");
         System.out.println("repositorio de prueba dedicado al aprendizaje");
+        System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");
+        System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");
+        System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");
+        System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");
+        
+        
+        
     }
     
 }
