@@ -17,6 +17,7 @@ public class Repositorio_prueba {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("repositorio de prueba número 1");
+        System.out.println("repositorio de prueba dedicado al aprendizaje");
     }
     
 }
